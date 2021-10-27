@@ -1,0 +1,8 @@
+body{
+    background-color: grey;
+    background-image: none;
+}
+
+.hero {
+    background: white url(../images/model.jpg);
+  }
